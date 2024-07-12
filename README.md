@@ -140,12 +140,10 @@ Read these before you start:
 
 | Category  | THINKPAD X230            |
 | --------- | ------------------------ |
-| CPU       | Intel Core i5-3320M      |
-| SSD       | Samsung 870 Evo 250GB    |
-| Display   | 12.5' IPS HD (1366x1768) |
+| CPU       | Intel Core i3-4010U      |
+| SSD       | Samsung 128GB            |
+| Display   | 11.4' IPS HD (1366x1768) |
 | WiFi & BT | Intel Wireless-AC 7260   |
-
-- Refer to [X230-Platform_Specifications](https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ThinkPad_X230.pdf) for possible stock ThinkPad X230 configurations.
 
 </details>
 
@@ -167,30 +165,24 @@ Before you do anything, please familiarize yourself with basic Hackintosh termin
 
 - macOS 11.4, EFI OpenCore 0.7.1
 
-| CPU           | Single-Core | Multi-Core |
-| :------------ | ----------: | ---------: |
-| Cinebench R23 |             |       1576 |
-| Geekbench 5   |         694 |       1421 |
+| CPU         | Single-Core | Multi-Core |
+| :---------- | ----------: | ---------: |
+| Geekbench 5 |         551 |       1079 |
 
-| GPU         | OpenCL | Metal |
-| :---------- | -----: | ----: |
-| Geekbench 5 |   1028 |   193 |
+| GPU         |  OpenCL |   Metal |
+| :---------- | ------: | ------: |
+| Geekbench 5 | NOT YET | NOT YET |
 
 </details>
 
 # CONTACT
 
-- Email: thebinhluong0519@gmail.com
-- Email(Prabhakaran): prabha.karan.1021@gmail.com
-- Telegram: +84 (867)-450-107
-- Telegram(group): Click on the telegram button in the top
+- Email: medox71t@gmail.com
 
 # Credits
 
 - [Apple](https://www.apple.com) for macOS.
 - [Acidanthera](https://github.com/acidanthera) for all the kexts/utilities that they made.
 - [Rehabman](https://github.com/RehabMan) and [Daliansky](https://github.com/daliansky) for the patches and guides and kexts.
-- [George Kushnir](https://github.com/n4ru) for modified BIOS.
 - [Dortania](https://github.com/dortania) for for the OpenCore Install Guide.
-- [simprecicchiani](https://github.com/simprecicchiani) for inspirational ThinkPad configurations.
-- [zhen-zen](https://github.com/zhen-zen) for **YogaSMC**.
+- [Arabic Hackintosh Team](https://github.com/ARhackintosh/ARtutorial) for the Install Guide
