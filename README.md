@@ -166,7 +166,7 @@ Before you do anything, please familiarize yourself with basic Hackintosh termin
 <summary><strong> BENCHMARKS </strong></summary>
 </br>
 
-- macOS 11.4, EFI OpenCore 0.7.1
+- macOS 12.7.5, EFI OpenCore 0.9.1
 
 | CPU         | Single-Core | Multi-Core |
 | :---------- | ----------: | ---------: |
