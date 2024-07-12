@@ -17,7 +17,7 @@
     <a href="https://ko-fi.com/medox71t">
         <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange.svg"></a>
     <a href="https://www.buymeacoffee.com/MedoX71T">
-        <img src="https://img.shields.io/badge/Donate%20prabhakaran-Buymeacoffee%20-FFF27D"></a>
+        <img src="https://img.shields.io/badge/Donate%20MedoX71T-Buymeacoffee%20-FFF27D"></a>
     
 </p>
 
@@ -138,12 +138,12 @@ Read these before you start:
 <summary><strong> HARDWARE </strong></summary>
 <br>
 
-| Category  | THINKPAD X230            |
-| --------- | ------------------------ |
-| CPU       | Intel Core i3-4010U      |
-| SSD       | Samsung 128GB            |
-| Display   | 11.4' IPS HD (1366x1768) |
-| WiFi & BT | Intel Wireless-AC 7260   |
+| Category  | THINKPAD X230          |
+| --------- | ---------------------- |
+| CPU       | Intel Core i3-4010U    |
+| SSD       | Samsung 128GB          |
+| Display   | 11.6' HD (1366x768)    |
+| WiFi & BT | Intel Wireless-AC 7260 |
 
 </details>
 
@@ -154,8 +154,8 @@ Read these before you start:
 Before you do anything, please familiarize yourself with basic Hackintosh terminologies and the basic Hackintosh process by throughly reading Dortania guides as linked in `REFERENCES`
 
 - Creating a macOS installer: refer to [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
-- [**README-HARDWARE**](/Other/README_HARDWARE.md): Requirements before installing.
-- [**README-OTHERS**](/Other/README_OTHERS.md): for post installation settings and other remarks.
+- [**README-HARDWARE**](https://dortania.github.io/OpenCore-Install-Guide/macos-limits.html): Requirements before installing.
+- [**README-POST-INSTALLATION**](https://dortania.github.io/OpenCore-Post-Install/#how-to-follow-this-guide): for post installation settings and other remarks.
 
 </details>
 
