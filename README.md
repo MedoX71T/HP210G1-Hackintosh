@@ -4,28 +4,26 @@
     <a href="https://www.apple.com/">
         <img src="https://img.shields.io/badge/Catalina-10.15.7-red.svg"/></a>
     <a href="https://www.apple.com/macos/big-sur/">
-        <img src="https://img.shields.io/badge/Big_Sur-11.6.5-purple.svg"></a>
+        <img src="https://img.shields.io/badge/Big_Sur-11.7.10-purple.svg"></a>
     <a href="https://www.apple.com/macos/monterey/">
-        <img src="https://img.shields.io/badge/Monterey-12.3.1-brown"></a>
+        <img src="https://img.shields.io/badge/Monterey-12.7.5-brown"></a>
     <a href="https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ThinkPad_X230.pdf">
-        <img src="https://img.shields.io/badge/ThinkPad-X230-blue"/></a>
+        <img src="https://img.shields.io/badge/HP-210G1-blue"/></a>
     <a href="https://github.com/acidanthera/OpenCorePkg">
-        <img src="https://img.shields.io/badge/OpenCore-0.7.9-blue"/></a>
+        <img src="https://img.shields.io/badge/OpenCore-0.9.1-blue"/></a>
 </p>
 
 <p align="center">
-    <a href="https://www.paypal.com/paypalme/thebinhluong0519">
+    <a href="https://ko-fi.com/medox71t">
         <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange.svg"></a>
-    <a href="https://www.buymeacoffee.com/karan1021">
+    <a href="https://www.buymeacoffee.com/MedoX71T">
         <img src="https://img.shields.io/badge/Donate%20prabhakaran-Buymeacoffee%20-FFF27D"></a>
-    <a href="https://t.me/+KuAH5jUCAocwMzBl">
-        <img src="https://img.shields.io/badge/Telegram-Channel-33A8E3"></a>
     
 </p>
 
 <p align="center">
     <a href="">
-        <img src="/Other/Pics/X230.png" alt="Lenovo Thinkpad X230 macOS" width="400"> </a>
+        <img src="HP-210-G1 copy.png" alt="HP 210 G1 macOS" width="400"> </a>
 </p>
 
 #### I am not responsible for any damages you may cause.
@@ -41,7 +39,7 @@
 
 ## Update
 
-### Recent | [Changelog Archive](/Other/Changelog.md)
+### Recent
 
 <details>
 <summary><strong> SUMMARY </strong></summary>
@@ -49,60 +47,57 @@
 
 > ### Non-Fuctional
 
-| Feature                              | Status | Dependency          |
-| :----------------------------------- | ------ | ------------------- |
-| Fingerprint Reader                   | ❌   | `DISABLED` in BIOS to save power. |
-| Wireless WAN                         | ❌   | `DISABLED` in BIOS to save power. |
-| VGA Port                             | ❌   | Does not exist on real apple computers. |
+| Feature | Status | Dependency                  |
+| :------ | ------ | --------------------------- |
+| None    | ❌     | Everything is working fine. |
 
 > ### Video and Audio
 
-| Feature                              | Status | Dependency          |
-| :----------------------------------- | ------ | ------------------- |
-| Full Graphics Accleration (QE/CI)    | ✅   | `WhateverGreen.kext`  |
-| Audio Recording                      | ✅   | `AppleALC.kext` with Layout ID = 55 and `SSDT-HPET.aml`   |
-| Audio Playback                       | ✅   | `AppleALC.kext` with Layout ID = 55 and `SSDT-HPET.aml`   |
-| Automatic Headphone Output Switching | ✅   | `AppleALC.kext` with Layout ID = 55 and `SSDT-HPET.aml`   |
-| Dock Audio Port                      | ✅   | `AppleALC.kext` with Layout ID = 55 and `SSDT-HPET.aml`   |
+| Feature                              | Status | Dependency                                             |
+| :----------------------------------- | ------ | ------------------------------------------------------ |
+| Full Graphics Accleration (QE/CI)    | ✅     | `WhateverGreen.kext`                                   |
+| Audio Recording                      | ✅     | `AppleALC.kext` with Layout ID = 3 and `SSDT-HPET.aml` |
+| Audio Playback                       | ✅     | `AppleALC.kext` with Layout ID = 3 and `SSDT-HPET.aml` |
+| Automatic Headphone Output Switching | ✅     | `AppleALC.kext` with Layout ID = 3 and `SSDT-HPET.aml` |
+| Dock Audio Port                      | ✅     | `AppleALC.kext` with Layout ID = 3 and `SSDT-HPET.aml` |
 
 > ### Power, Charge, Sleep and Hibernation
 
-| Feature                              | Status | Dependency          |
-| :----------------------------------- | ------ | ------------------- |
-| Battery Percentage Indication        | ✅   | `ECEnabler.kext`            | 
-| iGPU Power Management                | ✅   | `XCPM`, enabled by [`SSDT-PM.aml`](https://github.com/Piker-Alpha/ssdtPRGen.sh) |
-| S3 Sleep/ Hibernation Mode 3         | ✅   | `SSDT-PWTK.aml` |  |   
-| Custom Charge Threshold              | ✅   | `SSDT-EC.aml`, [YogaSMC.kext](https://github.com/zhen-zen/YogaSMC), and [YogaSMCPane](https://github.com/zhen-zen/YogaSMC)|
-| Fan Control                          | ✅   | `SSDT-EC.aml`, [YogaSMC.kext](https://github.com/zhen-zen/YogaSMC), and [YogaSMCPane](https://github.com/zhen-zen/YogaSMC)|
-| Battery Life                         | ✅   | Native, comparable to Windows/Linux. |
+| Feature                       | Status | Dependency                           |
+| :---------------------------- | ------ | ------------------------------------ |
+| Battery Percentage Indication | ✅     | `ECEnabler.kext`                     |
+| iGPU Power Management         | ✅     | `WhateverGreen`                      |
+| Sleep/ Hibernation Mode       | ✅     | `SMBIOS`                             |
+| Custom Charge Threshold       | ✅     | `SSDT-EC.aml`                        |
+| Battery Life                  | ✅     | Native, comparable to Windows/Linux. |
 
 > ### Input/ Output
 
-| Feature                              | Status | Dependency          |
-| :----------------------------------- | ------ | ------------------- |
-| WiFi                                 | ✅   | `AirportItlwm.kext`  |
-| Bluetooth                            | ✅   | `IntelBluetoothFirmware.kext`  |
-| Ethernet                             | ✅   | `IntelMausi.kext`  |
-| USB 2.0, USB 3.0                     | ✅   | `USBPorts.kext`    |
-| USB Power Properties in macOS        | ✅   | `SSDT-EC-USBX.aml` |
+| Feature                       | Status | Dependency                                          |
+| :---------------------------- | ------ | --------------------------------------------------- |
+| WiFi                          | ✅     | `AirportItlwm.kext`,`AirportBrcmFixup.kext`         |
+| Bluetooth                     | ✅     | `IntelBluetoothFirmware.kext`,`IntelBTPatcher.kext` |
+| Ethernet                      | ✅     | `IntelMausi.kext`                                   |
+| USB 2.0, USB 3.0              | ✅     | `USBPorts.kext`                                     |
+| USB Power Properties in macOS | ✅     | `SSDT-PLUG.aml`                                     |
 
 > ### Display, TrackPad, TrackPoint, and Keyboard
 
-| Feature                              | Status | Dependency          |
-| :----------------------------------- | ------ | ------------------- |
-| Brightness Adjustments | ✅  | `WhateverGreen.kext`, `SSDT-PNLF.aml` and `BrightnessKeys.kext`|
-| TrackPoint             | ✅  | `VoodooPS2Controller.kext` |
-| TrackPad               | ✅  | `VoodooPS2Controller.kext` |
-| Built-in Keyboard      | ✅  | `VoodooPS2Controller.kext` |
-| Multimedia Keys        | ✅  | `BrightnessKeys.kext` and [YogaSMC](https://github.com/zhen-zen/YogaSMC) |
+| Feature                | Status | Dependency                                                      |
+| :--------------------- | ------ | --------------------------------------------------------------- |
+| Brightness Adjustments | ✅     | `WhateverGreen.kext`, `SSDT-PNLF.aml` and `BrightnessKeys.kext` |
+| TrackPoint             | ✅     | `VoodooPS2Controller.kext`                                      |
+| TrackPad               | ✅     | `VoodooPS2Controller.kext`                                      |
+| Built-in Keyboard      | ✅     | `VoodooPS2Controller.kext`                                      |
+| Multimedia Keys        | ✅     | `BrightnessKeys.kext`                                           |
 
 > ### macOS Continuity
 
-| Feature                              | Status | Dependency          |
-| :----------------------------------- | ------ | ------------------- |
-| iCloud, iMessage, FaceTime           | ✅   | Whitelisted Apple ID, Valid SMBIOS  |
-| AirDrop                              | ✅   | Not tested  |
-| Time Machine                         | ✅   | Native  |
+| Feature                    | Status | Dependency                         |
+| :------------------------- | ------ | ---------------------------------- |
+| iCloud, iMessage, FaceTime | ✅     | Whitelisted Apple ID, Valid SMBIOS |
+| AirDrop                    | ✅     | Not tested                         |
+| Time Machine               | ✅     | Native                             |
 
 </details>
 
@@ -128,12 +123,12 @@ Read these before you start:
 <br>
 
 - A macOS machine(optional): to create the macOS installer.
-- Flash drive, 12GB or more, for the above purpose.  
-- Xcode works fine for editing plist files on macOS, but I prefer [PlistEdit Pro](https://www.fatcatsoftware.com/plisteditpro/).  
-- [ProperTree](https://github.com/corpnewt/ProperTree) if you need to edit plist files on Windows.  
+- Flash drive, 12GB or more, for the above purpose.
+- Xcode works fine for editing plist files on macOS, but I prefer [PlistEdit Pro](https://www.fatcatsoftware.com/plisteditpro/).
+- [ProperTree](https://github.com/corpnewt/ProperTree) if you need to edit plist files on Windows.
 - [MaciASL](https://github.com/acidanthera/MaciASL), for patching ACPI tables and editing ACPI patches.
-- [MountEFI](https://github.com/corpnewt/MountEFI) to quickly mount EFI partitions.  
-- [IORegistryExplorer](https://developer.apple.com/downloads), for diagnosis.  
+- [MountEFI](https://github.com/corpnewt/MountEFI) to quickly mount EFI partitions.
+- [IORegistryExplorer](https://developer.apple.com/downloads), for diagnosis.
 - [Hackintool](https://www.insanelymac.com/forum/topic/335018-hackintool-v286/), for diagnostic ONLY, Hackintool should not be used for patching, it is outdated.
 - Patience and time, especially if this is your first time Hackintosh-ing.
 
@@ -172,14 +167,14 @@ Before you do anything, please familiarize yourself with basic Hackintosh termin
 
 - macOS 11.4, EFI OpenCore 0.7.1
 
-| CPU            | Single-Core | Multi-Core |
-| :------------- | ----------: | ---------: |
-| Cinebench R23  |             |       1576 |
-| Geekbench 5    |         694 |       1421 |
+| CPU           | Single-Core | Multi-Core |
+| :------------ | ----------: | ---------: |
+| Cinebench R23 |             |       1576 |
+| Geekbench 5   |         694 |       1421 |
 
-| GPU            | OpenCL      | Metal      |
-| :------------- | ----------: | ---------: |
-| Geekbench 5    |        1028 |        193 |
+| GPU         | OpenCL | Metal |
+| :---------- | -----: | ----: |
+| Geekbench 5 |   1028 |   193 |
 
 </details>
 
