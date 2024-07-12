@@ -7,10 +7,14 @@
         <img src="https://img.shields.io/badge/Big_Sur-11.7.10-purple.svg"></a>
     <a href="https://www.apple.com/macos/monterey/">
         <img src="https://img.shields.io/badge/Monterey-12.7.5-brown"></a>
-    <a href="https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ThinkPad_X230.pdf">
+    <a href="https://support.hp.com/si-en/document/c04210558">
         <img src="https://img.shields.io/badge/HP-210G1-blue"/></a>
     <a href="https://github.com/acidanthera/OpenCorePkg">
         <img src="https://img.shields.io/badge/OpenCore-0.9.1-blue"/></a>
+    <a href="#">
+        <img src="https://img.shields.io/github/last-commit/MedoX71T/HP210G1-Hackintosh"/></a>
+    <a href="#">
+        <img src="https://img.shields.io/github/last-commit/MedoX71T/HP210G1-Hackintosh"/></a>
 </p>
 
 <p align="center">
@@ -32,7 +36,6 @@
 
 - Complete EFI packs are available in the releases page.
 - I will try my best to keep the repo updated with the latest kexts and OpenCore version.
-- Please **do not clone or download** the main branch for daily use: it may include **unstable code** just because it is my repository.
 - This EFI is configured with Catalina, Big Sur and Monterey.
 - With every EFI update you retrieve from here please remember to go through the post install guide.
 - For MacOS Monterey - Please go through [OLARILA GUIDE](https://www.olarila.com/topic/20908-easy-fast-and-perfect-vanilla-hackintosh/).
