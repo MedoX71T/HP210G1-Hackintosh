@@ -141,7 +141,7 @@ Read these before you start:
 <summary><strong> HARDWARE </strong></summary>
 <br>
 
-| Category  | THINKPAD X230          |
+| Category  | HP 210 G1              |
 | --------- | ---------------------- |
 | CPU       | Intel Core i3-4010U    |
 | SSD       | Samsung 128GB          |
