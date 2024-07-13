@@ -172,9 +172,9 @@ Before you do anything, please familiarize yourself with basic Hackintosh termin
 | :---------- | ----------: | ---------: |
 | Geekbench 6 |         551 |       1079 |
 
-| GPU         |  OpenCL |   Metal |
-| :---------- | ------: | ------: |
-| Geekbench 5 | NOT YET | NOT YET |
+| GPU         | OpenCL | Metal |
+| :---------- | -----: | ----: |
+| Geekbench 6 |   2280 |   944 |
 
 </details>
 
