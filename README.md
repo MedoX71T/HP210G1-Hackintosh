@@ -52,6 +52,11 @@
 | :------ | ------ | --------------------------- |
 | None    | ❌     | Everything is working fine. |
 
+<p align="center">
+    <a href="">
+        <img src="HP-210-G1.png" alt="HP 210 G1 macOS" width="800"> </a>
+</p>
+
 > ### Video and Audio
 
 | Feature                              | Status | Dependency                                             |
