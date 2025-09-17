@@ -90,6 +90,11 @@
 | USB 2.0, USB 3.0              | ✅     | `USBPorts.kext`                                     |
 | USB Power Properties in macOS | ✅     | `SSDT-PLUG.aml`                                     |
 
+<p align="center">
+    <a href="">
+        <img src="Input.png" alt="Video macOS" width="800"> </a> 
+</p>
+
 > ### Display, TrackPad, TrackPoint, and Keyboard
 
 | Feature                | Status | Dependency                                                      |
