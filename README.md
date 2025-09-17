@@ -59,7 +59,7 @@
 
 | Feature                              | Status | Dependency                                             |
 | :----------------------------------- | ------ | ------------------------------------------------------ |
-| Full Graphics Accleration (QE/CI)    | ✅     | `WhateverGreen.kext`                                   |
+| Full Graphics Acceleration           | ✅     | `WhateverGreen.kext`                                   |
 | Audio Recording                      | ✅     | `AppleALC.kext` with Layout ID = 3 and `SSDT-HPET.aml` |
 | Audio Playback                       | ✅     | `AppleALC.kext` with Layout ID = 3 and `SSDT-HPET.aml` |
 | Automatic Headphone Output Switching | ✅     | `AppleALC.kext` with Layout ID = 3 and `SSDT-HPET.aml` |
