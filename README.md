@@ -46,16 +46,16 @@
 <summary><strong> SUMMARY </strong></summary>
 <br>
 
+<p align="center">
+    <a href="">
+        <img src="About.png" alt="About macOS" width="800"> </a>
+</p>
+
 > ### Non-Fuctional
 
 | Feature | Status | Dependency                  |
 | :------ | ------ | --------------------------- |
 | None    | ❌     | Everything is working fine. |
-
-<p align="center">
-    <a href="">
-        <img src="HP-210-G1.png" alt="HP 210 G1 macOS" width="800"> </a>
-</p>
 
 > ### Video and Audio
 
