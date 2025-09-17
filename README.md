@@ -80,6 +80,11 @@
 | Custom Charge Threshold       | ✅     | `SSDT-EC.aml`                        |
 | Battery Life                  | ✅     | Native, comparable to Windows/Linux. |
 
+<p align="center">
+    <a href="">
+        <img src="Power.png" alt="Power macOS" width="800"> </a> 
+</p>
+
 > ### Input/ Output
 
 | Feature                       | Status | Dependency                                          |
