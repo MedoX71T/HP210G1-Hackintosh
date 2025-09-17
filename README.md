@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="8aXz-j9A10nZkqDXFp-rC5s1kYbXuLdweOCvapXkTFQ" />
 <h1 align="center">Hackintosh ?</h1>
 
 <p align="center">
