@@ -25,7 +25,7 @@
 
 <p align="center">
     <a href="">
-        <img src="HP-210-G1.png" alt="HP 210 G1 macOS" width="600"> </a>
+        <img src="HP-210-G1.png" alt="HP 210 G1 macOS" width="800"> </a>
 </p>
 
 #### I am not responsible for any damages you may cause.
