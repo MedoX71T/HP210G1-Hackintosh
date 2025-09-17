@@ -97,7 +97,7 @@
 
 <p align="center">
     <a href="">
-        <img src="Input.png" alt="Video macOS" width="800"> </a> 
+        <img src="Input.png" alt="Input macOS" width="800"> </a> 
 </p>
 
 > ### Display, TrackPad, TrackPoint, and Keyboard
@@ -109,6 +109,11 @@
 | TrackPad               | ✅     | `VoodooPS2Controller.kext`                                      |
 | Built-in Keyboard      | ✅     | `VoodooPS2Controller.kext`                                      |
 | Multimedia Keys        | ✅     | `BrightnessKeys.kext`                                           |
+
+<p align="center">
+    <a href="">
+        <img src="Trackpad.png" alt="Trackpad macOS" width="800"> </a> 
+</p>
 
 > ### macOS Continuity
 
