@@ -198,7 +198,5 @@ Before you do anything, please familiarize yourself with basic Hackintosh termin
 # Credits
 
 - [Apple](https://www.apple.com) for macOS.
-- [Acidanthera](https://github.com/acidanthera) for all the kexts/utilities that they made.
-- [Rehabman](https://github.com/RehabMan) and [Daliansky](https://github.com/daliansky) for the patches and guides and kexts.
 - [Dortania](https://github.com/dortania) for for the OpenCore Install Guide.
 - [Arabic Hackintosh Team](https://github.com/ARhackintosh/ARtutorial) for the Install Guide
