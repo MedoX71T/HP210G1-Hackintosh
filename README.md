@@ -82,7 +82,7 @@
 
 <p align="center">
     <a href="">
-        <img src="Power.png" alt="Power macOS" width="800"> </a> 
+        <img src="Battery.png" alt="Power macOS" width="800"> </a> 
 </p>
 
 > ### Input/ Output
