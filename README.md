@@ -1,16 +1,14 @@
 <h1 align="center">Hackintosh the HP 210 G1</h1>
 
 <p align="center">
-    <a href="https://www.apple.com/">
-        <img src="https://img.shields.io/badge/Catalina-10.15.7-red.svg"/></a>
     <a href="https://www.apple.com/macos/big-sur/">
         <img src="https://img.shields.io/badge/Big_Sur-11.7.10-purple.svg"></a>
     <a href="https://www.apple.com/macos/monterey/">
-        <img src="https://img.shields.io/badge/Monterey-12.7.5-brown"></a>
+        <img src="https://img.shields.io/badge/Monterey-12.7.6-orange"></a>
     <a href="https://support.hp.com/si-en/document/c04210558">
         <img src="https://img.shields.io/badge/HP-210G1-blue"/></a>
     <a href="https://github.com/acidanthera/OpenCorePkg">
-        <img src="https://img.shields.io/badge/OpenCore-0.9.1-blue"/></a>
+        <img src="https://img.shields.io/badge/OpenCore-1.0.5-green"/></a>
     <a href="#">
         <img src="https://img.shields.io/github/last-commit/MedoX71T/HP210G1-Hackintosh"/></a>
     <a href="https://github.com/MedoX71T/HP210G1-Hackintosh/releases">
