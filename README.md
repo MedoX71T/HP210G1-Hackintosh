@@ -1,8 +1,6 @@
-<h1 align="center">Hackintosh the HP 210 G1</h1>
+<h1 align="center">Hackintosh ?</h1>
 
 <p align="center">
-    <a href="https://www.apple.com/macos/big-sur/">
-        <img src="https://img.shields.io/badge/Big_Sur-11.7.10-purple.svg"></a>
     <a href="https://www.apple.com/macos/monterey/">
         <img src="https://img.shields.io/badge/Monterey-12.7.6-orange"></a>
     <a href="https://support.hp.com/si-en/document/c04210558">
