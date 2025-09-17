@@ -179,6 +179,16 @@ Before you do anything, please familiarize yourself with basic Hackintosh termin
 | :---------- | -----: | ----: |
 | Geekbench 6 |   2280 |   944 |
 
+- macOS 12.7.6, EFI OpenCore 1.0.5
+
+| CPU         | Single-Core | Multi-Core |
+| :---------- | ----------: | ---------: |
+| Geekbench 6 |         538 |       971  |
+
+| GPU         | OpenCL | Metal |
+| :---------- | -----: | ----: |
+| Geekbench 6 |   2280 |   944 |
+
 </details>
 
 # CONTACT
