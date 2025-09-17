@@ -123,6 +123,11 @@
 | AirDrop                    | ✅     | Not tested                         |
 | Time Machine               | ✅     | Native                             |
 
+<p align="center">
+    <a href="">
+        <img src="Icloud.png" alt="Icloud macOS" width="800"> </a> 
+</p>
+
 </details>
 
 <details>
