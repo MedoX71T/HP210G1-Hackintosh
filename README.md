@@ -15,9 +15,9 @@
 
 <p align="center">
     <a href="https://ko-fi.com/medox71t">
-        <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange.svg"></a>
+        <img src="https://img.shields.io/badge/Kofi-Buy%20me%20a%20coffee-orange.svg"></a>
     <a href="https://www.buymeacoffee.com/MedoX71T">
-        <img src="https://img.shields.io/badge/Donate-0MedoX71T%20-FFF27D"></a>
+        <img src="https://img.shields.io/badge/Donate-MedoX71T%20-FFF27D"></a>
     
 </p>
 
