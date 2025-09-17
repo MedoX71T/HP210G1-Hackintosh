@@ -44,11 +44,6 @@
 <summary><strong> SUMMARY </strong></summary>
 <br>
 
-<p align="center">
-    <a href="">
-        <img src="About.png" alt="About macOS" width="800"> </a>
-</p>
-
 > ### Non-Fuctional
 
 | Feature | Status | Dependency                  |
@@ -57,7 +52,7 @@
 
 <p align="center">
     <a href="">
-        <img src="Video.png" alt="Video macOS" width="800"> </a>
+        <img src="About.png" alt="About macOS" width="800"> </a>
 </p>
 
 > ### Video and Audio
@@ -69,6 +64,11 @@
 | Audio Playback                       | ✅     | `AppleALC.kext` with Layout ID = 3 and `SSDT-HPET.aml` |
 | Automatic Headphone Output Switching | ✅     | `AppleALC.kext` with Layout ID = 3 and `SSDT-HPET.aml` |
 | Dock Audio Port                      | ✅     | `AppleALC.kext` with Layout ID = 3 and `SSDT-HPET.aml` |
+
+<p align="center">
+    <a href="">
+        <img src="Video.png" alt="Video macOS" width="800"> </a>
+</p>
 
 > ### Power, Charge, Sleep and Hibernation
 
