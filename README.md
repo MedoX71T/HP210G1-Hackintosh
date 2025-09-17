@@ -187,7 +187,7 @@ Before you do anything, please familiarize yourself with basic Hackintosh termin
 
 | GPU         | OpenCL | Metal |
 | :---------- | -----: | ----: |
-| Geekbench 6 |   2280 |   944 |
+| Geekbench 6 |   2464 |   1023 |
 
 </details>
 
