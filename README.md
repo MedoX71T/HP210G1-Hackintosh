@@ -67,7 +67,7 @@
 
 <p align="center">
     <a href="">
-        <img src="Video.png" alt="Video macOS" width="800"> </a>
+        <img src="Video.png" alt="Video macOS" width="800"> </a> 
 </p>
 
 > ### Power, Charge, Sleep and Hibernation
