@@ -52,7 +52,7 @@
 
 <p align="center">
     <a href="">
-        <img src="About.png" alt="About macOS" width="800"> </a>
+        <img src="Hardware.png" alt="Hardware macOS" width="800"> </a>
 </p>
 
 > ### Video and Audio
